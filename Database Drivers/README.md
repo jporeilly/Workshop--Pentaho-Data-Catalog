@@ -3,4 +3,4 @@
 
 Synthea            - postgresql-42.7.1.jar
 AdventureWorks2019 - mssql-jdbc-12.6.0.jre11.jar
-                   - mysql-connector-j-8.2.0.jar
+Arlojet            - mysql-connector-j-8.2.0.jar
