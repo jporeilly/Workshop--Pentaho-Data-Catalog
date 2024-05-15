@@ -1,4 +1,4 @@
-### Workshop--Pentaho Data Catalog 10.1
+### Workshop: Pentaho Data Catalog 10.1
 
 This workshop introduces the Pentaho Data Catalog and its capabilities to manage both structured and unstructured data efficiently. Through a combination of automated processes and machine learning, the course will guide you through the essential functions of data ingestion, profiling, and curation. You will learn how to connect to various data sources, understand the importance of a business glossary, enforce metadata rules, and gain insights into the components of the Pentaho+ Data Catalog.
 By the end of the workshop, participants will have a comprehensive understanding of:
