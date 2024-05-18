@@ -82,3 +82,6 @@ s3user - data account
 Username: s3user
 Password123!
 Namespace: Bucket1
+
+username (base64): czN1c2Vy
+password (md5): 42ebed8106e9a0bc70c1d4f245c42769
