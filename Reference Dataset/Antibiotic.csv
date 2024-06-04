@@ -1,0 +1,167 @@
+Sr,ID,Antibiotic Name
+1,Capreomycin,Capreomycin
+2,Viomycin,Viomycin
+3,Polymyxin B,Polymyxin B
+4,Bacitracin,Bacitracin
+5,Rifalazil,Rifalazil
+6,Rifapentine,Rifapentine
+7,Rifabutin,Rifabutin
+8,Rifampin,Rifampin
+9,Cycloserine 2,Cycloserine 2
+10,Linezolid,Linezolid
+11,Telavancin,Telavancin
+12,Teicoplanin,Teicoplanin
+13,Vancomycin,Vancomycin
+14,Nitrofurantoin,Nitrofurantoin
+15,Tinidazole,Tinidazole
+16,Metronidazole,Metronidazole
+17,Chloramphenicol,Chloramphenicol
+18,Tigecycline,Tigecycline
+19,Tetracycline,Tetracycline
+20,Oxytetracycline,Oxytetracycline
+21,Minocycline,Minocycline
+22,Doxycycline,Doxycycline
+23,Demeclocycline,Demeclocycline
+24,Trimethoprim-Sulfamethoxazole,Trimethoprim-Sulfamethoxazole
+25,Sulfisoxazole,Sulfisoxazole
+26,Sulfamethoxazole,Sulfamethoxazole
+27,Sulfamethizole,Sulfamethizole
+28,Prulifloxacin,Prulifloxacin
+29,Trovafloxacin,Trovafloxacin
+30,Sitafloxacin,Sitafloxacin
+31,Gemifloxacin,Gemifloxacin
+32,Clinafloxacin,Clinafloxacin
+33,Besifloxacin,Besifloxacin
+34,Tosufloxacin,Tosufloxacin
+35,Temafloxacin,Temafloxacin
+36,Sparfloxacin,Sparfloxacin
+37,Pazufloxacin,Pazufloxacin
+38,Moxifloxacin,Moxifloxacin
+39,Levofloxacin,Levofloxacin
+40,Grepafloxacin,Grepafloxacin
+41,Gatifloxacin,Gatifloxacin
+42,Balofloxacin,Balofloxacin
+43,Rufloxacin,Rufloxacin
+44,Pefloxacin,Pefloxacin
+45,Ofloxacin,Ofloxacin
+46,Norfloxacin,Norfloxacin
+47,Nadifloxacin,Nadifloxacin
+48,Lomefloxacin,Lomefloxacin
+49,Enoxacin,Enoxacin
+50,Ciprofloxacin,Ciprofloxacin
+51,Rosoxacin,Rosoxacin
+52,Pipemidic acid,Pipemidic acid
+53,Piromidic acid,Piromidic acid
+54,Oxolinic acid,Oxolinic acid
+55,Nalidixic acid,Nalidixic acid
+56,Flumequine,Flumequine
+57,Tobramycin,Tobramycin
+58,Streptomycin,Streptomycin
+59,Paromomycin,Paromomycin
+60,Netilmicin,Netilmicin
+61,Neomycin,Neomycin
+62,Kanamycin,Kanamycin
+63,Gentamicin,Gentamicin
+64,Amikacin,Amikacin
+65,Quinupristin/dalfopristin,Quinupristin/dalfopristin
+66,Pristinamycin,Pristinamycin
+67,Lincomycin,Lincomycin
+68,Clindamycin,Clindamycin
+69,Telithromycin,Telithromycin
+70,Roxithromycin,Roxithromycin
+71,Dirithromycin,Dirithromycin
+72,Clarithromycin,Clarithromycin
+73,Erythromycin,Erythromycin
+74,Azithromycin,Azithromycin
+75,Ertapenem,Ertapenem
+76,Meropenem,Meropenem
+77,Doripenem,Doripenem
+78,Imipenem/cilastatin,Imipenem/cilastatin
+79,Imipenem,Imipenem
+80,Aztreonam,Aztreonam
+81,Ceftolozane/Tazobactam,Ceftolozane/Tazobactam
+82,Ceftazidime/Avibactam,Ceftazidime/Avibactam
+83,Ceftioxide,Ceftioxide
+84,Cefuracetime,Cefuracetime
+85,Cefsumide,Cefsumide
+86,Cefrotil,Cefrotil
+87,Cefoxazole,Cefoxazole
+88,Cefovecin,Cefovecin
+89,Cefmepidium,Cefmepidium
+90,Cefmatilen,Cefmatilen
+91,Cefivitril,Cefivitril
+92,Cefetrizole,Cefetrizole
+93,Cefempidone,Cefempidone
+94,Cefedrolor,Cefedrolor
+95,Cefcanel,Cefcanel
+96,Cefaparole,Cefaparole
+97,Cefaloram,Cefaloram
+98,Cefaclomezine,Cefaclomezine
+99,Ceftaroline,Ceftaroline
+100,Ceftobiprole,Ceftobiprole
+101,Cefquinome,Cefquinome
+102,Cefpirome,Cefpirome
+103,Cefozopran,Cefozopran
+104,Cefoselis,Cefoselis
+105,Cefluprenam,Cefluprenam
+106,Cefepime,Cefepime
+107,Cefclidine,Cefclidine
+108,Ceftazidime,Ceftazidime
+109,Cefoperazone,Cefoperazone
+110,Ceftriaxone,Ceftriaxone
+111,Ceftizoxime,Ceftizoxime
+112,Ceftiolene,Ceftiolene
+113,Ceftiofur,Ceftiofur
+114,Ceftibuten,Ceftibuten
+115,Cefteram,Cefteram
+116,Cefpodoxime,Cefpodoxime
+117,Cefpimizole,Cefpimizole
+118,Cefotaxime,Cefotaxime
+119,Cefodizime,Cefodizime
+120,Cefmenoxime,Cefmenoxime
+121,Cefixime,Cefixime
+122,Cefetamet,Cefetamet
+123,Cefditoren,Cefditoren
+124,Cefdinir,Cefdinir
+125,Cefdaloxime,Cefdaloxime
+126,Cefcapene,Cefcapene
+127,Cefuzonam,Cefuzonam
+128,Cefuroxime,Cefuroxime
+129,Cefprozil (cefproxil),Cefprozil (cefproxil)
+130,Cefoxitin,Cefoxitin
+131,Cefotetan,Cefotetan
+132,Cefonicid,Cefonicid
+133,Cefmetazole,Cefmetazole
+134,Cefamandole,Cefamandole
+135,Cefaclor,Cefaclor
+136,Ceftezole,Ceftezole
+137,Cefroxadine,Cefroxadine
+138,Cefradine (cephradine),Cefradine (cephradine)
+139,Cefazolin (cephazolin),Cefazolin (cephazolin)
+140,Cefazedone,Cefazedone
+141,Cefazaflur,Cefazaflur
+142,Cefatrizine,Cefatrizine
+143,Cefapirin (cephapirin),Cefapirin (cephapirin)
+144,Cefalotin (cephalothin),Cefalotin (cephalothin)
+145,Cefaloridine (cephaloradine),Cefaloridine (cephaloradine)
+146,Cefalonium (cephalonium),Cefalonium (cephalonium)
+147,Cefaloglycin (cephaloglycin),Cefaloglycin (cephaloglycin)
+148,Cefalexin (cephalexin),Cefalexin (cephalexin)
+149,Cefadroxil (cefadroxyl),Cefadroxil (cefadroxyl)
+150,Cefacetrile (cephacetrile),Cefacetrile (cephacetrile)
+151,Ticarcillin,Ticarcillin
+152,Pivmecillinam,Pivmecillinam
+153,Pivampicillin,Pivampicillin
+154,Piperacillin,Piperacillin
+155,Penicillin V,Penicillin V
+156,Penicillin G,Penicillin G
+157,Oxacillin,Oxacillin
+158,Nafcillin,Nafcillin
+159,Mezlocillin,Mezlocillin
+160,Flucloxacillin,Flucloxacillin
+161,Dicloxacillin,Dicloxacillin
+162,Cloxacillin,Cloxacillin
+163,Carbenicillin,Carbenicillin
+164,Bacampicillin,Bacampicillin
+165,Ampicillin,Ampicillin
+166,Amoxicillin,Amoxicillin
