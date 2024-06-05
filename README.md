@@ -12,8 +12,8 @@ By the end of the workshop, participants will have a comprehensive understanding
 
 #### Notes on PDC/PDO
 
-Resolved using SKytap DNS
-Domain: pentaho.example (10.0.0.254)
+Resolved using SKytap DNS \
+Domain: pentaho.example (10.0.0.254) \
 
 #### Install a PEM-format certificate
 
@@ -43,27 +43,27 @@ As an OpenSSL-compatible certificate directory in /etc/ssl/certs \
 
 #### Notes on Windows Server 2022
 
-Username: Administrator
-Password: Welcome123!
-DNS Domain: pentaho.plus
-HCP Forwarding: *.hcp1.pentaho.plus
+Username: Administrator \
+Password: Welcome123! \
+DNS Domain: pentaho.plus \
+HCP Forwarding: *.hcp1.pentaho.plus \
 
 #### Notes on HCP 9.4.4
 
-System Account
-Username: admin
-Password: Pentaho123!
-Endpoint: http://PentahoTNT.hcp1.pentaho.plus
+System Account \
+Username: admin \
+Password: Pentaho123! \
+Endpoint: http://PentahoTNT.hcp1.pentaho.plus \
 
-Tenant Accounts
-PentahoTNT - administration account
-Username: PentahoTNT
-Password: Pentaho123!
+Tenant Accounts \
+PentahoTNT - administration account \
+Username: PentahoTNT \
+Password: Pentaho123! \
 
-s3user - data account
-Username: s3user
-Password123!
-Namespace: Bucket1
+s3user - data account \
+Username: s3user \
+Password123! \
+Namespace: Bucket1 \
 
 Username (base64): czN1c2Vy
 Password (md5): 42ebed8106e9a0bc70c1d4f245c42769
