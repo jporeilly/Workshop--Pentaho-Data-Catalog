@@ -58,12 +58,12 @@ Endpoint: http://PentahoTNT.hcp1.pentaho.plus
 Tenant Accounts \
 PentahoTNT - administration account \
 Username: PentahoTNT \
-Password: Pentaho123! \
+Password: Pentaho123! 
 
 s3user - data account \
 Username: s3user \
 Password123! \
-Namespace: Bucket1 \
+Namespace: Bucket1 
 
 Username (base64): czN1c2Vy \
 Password (md5): 42ebed8106e9a0bc70c1d4f245c42769
