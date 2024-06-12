@@ -192,3 +192,4 @@ DNS.1 = pdi.pentaho.example
 DNS.2 = pdc.pentaho.example
 DNS.3 = pdm.pentaho.example
 DNS.4 = pda.pentaho.example
+DNS.5 = pdo.pentaho.example
