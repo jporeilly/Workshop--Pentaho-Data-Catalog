@@ -14,7 +14,7 @@ dir		    = ca			    # Where everything is kept
 certs		= $dir/certs		# Where the issued certs are kept
 crl_dir		= $dir/crl		    # Where the issued crl are kept
 database	= $dir/index		# database index file.
-certificate	= $dir/cert/ca.crt
+certificate	= $dir/cert/ca.pem
 serial		= $dir/serial
 private_key	= $dir/private/ca.key
 #
@@ -148,17 +148,17 @@ basicConstraints          = critical,CA:true
 # Key usage: this is typical for a CA certificate. However since it will
 # prevent it being used as an test self-signed certificate it is best
 # left out by default.
-# keyUsage                = cRLSign, keyCertSign
+keyUsage                  = cRLSign, keyCertSign
 
 
 ####################################################################
 [ v3_inter_ca ]
 # Extensions for a typical CA
 # PKIX recommendation.
-subjectKeyIdentifier=hash
+subjectKeyIdentifier      = hash
 authorityKeyIdentifier=keyid:always,issuer
-basicConstraints = critical,CA:true,pathlen:0
+basicConstraints          = critical,CA:true,pathlen:0
 # Key usage: this is typical for a CA certificate. However since it will
 # prevent it being used as an test self-signed certificate it is best
 # left out by default.
-# keyUsage = cRLSign, keyCertSign
+keyUsage                  = cRLSign, keyCertSign

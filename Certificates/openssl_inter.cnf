@@ -16,7 +16,7 @@ crl_dir		= $dir/crl		    # Where the issued crl are kept
 database	= $dir/index		# database index file.
 serial		= $dir/serial
 
-certificate	    = $dir/cert/inter-ca.crt
+certificate	    = $dir/cert/inter-ca.pem
 private_key	    = $dir/private/inter-ca.key
 
 #unique_subject	= no			           # Set to 'no' to allow creation of
